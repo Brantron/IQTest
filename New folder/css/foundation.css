@@ -50,6 +50,10 @@ body {
   position: relative;
   cursor: default; }
 
+  #blue {
+    color: #3191EC
+  }
+
 a:hover {
   cursor: pointer; }
 
