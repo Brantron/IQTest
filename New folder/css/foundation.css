@@ -102,6 +102,14 @@ textarea {
 select {
   width: 100%; }
 
+.footer {
+border-top-width: 1px;
+border-top-style: solid;
+border-top-color: rgb(255, 255, 255);
+-webkit-gradient:(linear,left top,left bottom,color-stop(0%,#e9edf0),color-stop(8%,#FFF));
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgb(233, 237, 240)), color-stop(0.08, rgb(255, 255, 255)));
+}
+
 .row {
   width: 100%;
   margin-left: auto;
